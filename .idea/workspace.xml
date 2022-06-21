@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92f97ada-e6b4-47c9-b6e0-0361daf40555" name="Changes" comment="" />
+    <list default="true" id="92f97ada-e6b4-47c9-b6e0-0361daf40555" name="Changes" comment="Programs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655787586600</updated>
     </task>
+    <task id="LOCAL-00001" summary="Programs">
+      <created>1655796369660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655796369660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,10 +102,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Programs" />
   </component>
 </project>

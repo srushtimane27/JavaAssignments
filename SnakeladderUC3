@@ -1,0 +1,24 @@
+//Player checks for options
+
+import java.util.Random;
+
+public class SnakeladderUC3 {
+
+    public static void main(String[] args) {
+        Random random = new Random();
+        int x = random.nextInt(6)+1;
+        System.out.println(x);
+        if(x == 0){
+            System.out.println("No Play");
+
+        }else if(x == 3){
+            System.out.println("You get ladder");
+        }else if(x == 5){
+            System.out.println("Snake is there");
+        }else{
+            System.out.println("play");
+        }
+
+
+    }
+}
